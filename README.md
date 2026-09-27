@@ -10,6 +10,10 @@ We introduce VideoTC, a large-scale dataset composed of versatile synthesized vi
 
 The train/val/test splits are provided in the file ``.
 
+## Environment
+
+## Pre-trained Weights
+
 ## Training
 
-## Evaluation
+## Testing
