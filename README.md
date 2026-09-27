@@ -19,6 +19,7 @@ VideoTC is a large-scale temporal consistency dataset containing 2,160 AI-genera
 | `itype_texture.json` | Videos annotated as temporally inconsistent in *texture*, together with their scores. |
 | `human_rating.json` | All video names and their corresponding human-annotated temporal consistency scores. |
 
+After the download is complete, place all files under `TemporalQA/` and extract `VideoTCdataset.zip`. The directory structure should be as follows:
 
 
 The train/val/test splits are provided in the file ``.
