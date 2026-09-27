@@ -12,6 +12,8 @@ The train/val/test splits are provided in the file ``.
 
 ## Environment
 
+Run `conda env create -f environment.yml` to create a new conda environment called `video_eval`.
+
 ## Pre-trained Weights
 
 ## Training
