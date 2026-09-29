@@ -22,7 +22,7 @@ VideoTC is a large-scale temporal consistency dataset containing 2,160 AI-genera
 After the download is complete, place all files under `TemporalQA/` and extract `VideoTCdataset.zip`. The directory structure should be as follows:
 
 
-The train/val/test splits are provided in the file ``.
+The train/val/test splits are provided in `./labels`. There are three different groups of train/val/test splits in total.
 
 ## Environment
 
@@ -30,6 +30,31 @@ Run `conda env create -f environment.yml` to create a new conda environment call
 
 ## Pre-trained Weights
 
+Download TemporalQA pre-trained weights **[here](https://drive.google.com/file/d/1VEjNuC4Xrtl0K0pGGeK4scGrXr1ChveL/view?usp=sharing)**.
+
+Your directory structure should look like this:
+
+
+```text
+TemporalQA/
+├── fastvqa/
+├── labels/
+├── options/
+├── pretrained_weights/
+│   ├── swin_tiny_patch244_window877_kinetics400_1k.pth
+│   └── TemporalQA-final_val-livevqc_s_dev_v0.0.pth
+├── VideoTCdataset/
+│   ├── video1.mp4
+│   ├── video2.mp4
+│   └── ...
+├── environment.yml
+├── new_test.py
+├── new_train.py
+└── ...
+```
+
 ## Training
+
+Run `python new_train.py -o YOUR_PATH_TO_CONFIG`
 
 ## Testing
