@@ -1,0 +1,7 @@
+tmp/
+pretrained_weights/
+results/
+VideoTCdataset/
+wandb/
+__pycache__/
+*.pyc

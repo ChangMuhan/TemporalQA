@@ -1,0 +1,432 @@
+pika-selected_aerial view of a palace-1.mp4? -1? -1? 96.66666666666667
+ImagenVideo_19.mp4? -1? -1? 36.666666666666664
+CogVideoX-selected_a male police officer talking on the radio-1.mp4? -1? -1? 80.0
+ColorMNet_nvcc23_input_006_combined.mp4? -1? -1? 93.33333333333333
+pika-selected_a woman in a halloween costume posing on a motorcycle-1.mp4? -1? -1? 60.0
+CogVideoX-selected_a lizard on a bamboo-1.mp4? -1? -1? 22.5
+CogVideoX-selected_a young woman playing the ukulele at home-1.mp4? -1? -1? 30.0
+lavie-selected_a woman writing on the sticky note in the office-1.mp4? -1? -1? 36.666666666666664
+pika2.0_two_people_are_in_front_of_time_square_at_the_new_year_eve,_wearing_coat_and_scarf,_suddenly_person__seed3927177441.mp4? -1? -1? 50.0
+lavie-selected_aerial shot of interior of the warehouse-1.mp4? -1? -1? 26.666666666666668
+ControlVideo_controlvideo_A_mighty_elephant_marches_steadily_through_the_rugged_terrain..mp4? -1? -1? 30.0
+videocrafter-selected_a woman lying in the operating room-1.mp4? -1? -1? 23.333333333333332
+videocrafter-selected_a male interviewer listening to a person talking-1.mp4? -1? -1? 17.142857142857142
+TokenFlow_test_dataset_2_org.mp4? -1? -1? 64.0
+MagicVideo-v2_Flag of the US on top of a tall white mountain.mp4? -1? -1? 86.66666666666667
+Text2Video-zero_A_girl_is_holding_up_the_peace_sign.mp4? -1? -1? 33.333333333333336
+pix2video_giraffe_edit2.mp4? -1? -1? 40.0
+CogVideoX-selected_a man video recording the movie in theater-1.mp4? -1? -1? 53.333333333333336
+videocrafter-selected_a man cutting a tree bark-1.mp4? -1? -1? 24.0
+stem-inv_A_boy_is_playing_a_white_football_on_the_playground.mp4? -1? -1? 52.5
+MagicVideo-v2_A giant dragon sitting in a snow covered landscape, breathing fire.mp4? -1? -1? 70.0
+pika-selected_a black dog wearing halloween costume-1.mp4? -1? -1? 86.66666666666667
+Follow-Your-Pose_ccA_Robot_in_Antarctica.mp4? -1? -1? 30.0
+videocrafter-selected_a couple singing in the shower room together-1.mp4? -1? -1? 30.0
+lavie-selected_a man entering the gym locker room-1.mp4? -1? -1? 46.666666666666664
+CogVideoX-selected_a mother preparing food with her kids-1.mp4? -1? -1? 43.333333333333336
+pika-selected_a fallen tree trunk-1.mp4? -1? -1? 80.0
+DeepAI_30f9c31ec99fd6de480c2b28472da6c69705ba1c85d1b91d79.mp4? -1? -1? 10.0
+lavie-selected_a tree house in the woods-1.mp4? -1? -1? 48.57142857142857
+FAVC_film_2.mp4? -1? -1? 76.66666666666667
+videocrafter-selected_a group of photographers taking pictures at the north western gardens in llandudno north wales-1.mp4? -1? -1? 26.666666666666668
+CogVideoX-selected_a chef cutting sushi rolls-1.mp4? -1? -1? 80.0
+CIC_90.mp4? -1? -1? 62.5
+pika-selected_a person sanitizing an office space using smoke machine-1.mp4? -1? -1? 70.0
+lavie-selected_a man leaning on a tree at the beach-1.mp4? -1? -1? 80.0
+Text2Video-zero_A_panda_standing_on_a_surfboard,_in_the_ocean_in_sunset,_4k,_high_resolution..mp4? -1? -1? 25.0
+videocrafter-selected_a lizard on a bamboo-1.mp4? -1? -1? 20.0
+lavie-selected_a woman sitting on a motorcycle looking around-1.mp4? -1? -1? 47.5
+Rerender-a-video_teacher_ghibli.mp4? -1? -1? 65.0
+videocrafter-selected_aerial view of brown dry landscape-1.mp4? -1? -1? 33.333333333333336
+lavie-selected_a video of vessel structure during daytime-1.mp4? -1? -1? 37.5
+MagicVideo-v2_A group of mongooses scuttle about, set against a desert backdrop, bathed in bright and warm earth tones.mp4? -1? -1? 56.666666666666664
+CogVideoX-selected_a dragonfly perched on a leaf-1.mp4? -1? -1? 73.33333333333333
+DeepAI_91d936d7e572faf22bd5374c97aea3f46866e976e5e0bf2181.mp4? -1? -1? 46.666666666666664
+CogVideoX-selected_a green vintage automobile with an open hood parked in a parking area-1.mp4? -1? -1? 67.5
+TokenFlow_train_dataset_46_org.mp4? -1? -1? 66.66666666666667
+lavie-selected_a bored man sitting by the tv at home-1.mp4? -1? -1? 66.66666666666667
+MagicVideo_10010026.mp4? -1? -1? 46.666666666666664
+MagicVideo-v2_A girl is writing something on a book. Oil painting style.mp4? -1? -1? 80.0
+CogVideo_94.mp4? -1? -1? 40.0
+FateZero_16_sq_eat_01_concat_result.mp4? -1? -1? 26.666666666666668
+TokenFlow_train_dataset_5.mp4? -1? -1? 42.5
+lavie-selected_a chef holding and checking kitchen utensils-1.mp4? -1? -1? 40.0
+BiSTNet_bend_or_3.mp4? -1? -1? 82.5
+pika-selected_a couple resting on their home floor-1.mp4? -1? -1? 83.33333333333333
+lavie-selected_a farm worker harvesting onions-1.mp4? -1? -1? 63.333333333333336
+CogVideoX-selected_a plant surrounded by fallen leaves-1.mp4? -1? -1? 90.0
+videocrafter-selected_a plant surrounded by fallen leaves-1.mp4? -1? -1? 47.5
+CogVideoX-selected_a family wearing paper bag masks-1.mp4? -1? -1? 47.5
+lavie-selected_a man eating a donut-1.mp4? -1? -1? 60.0
+DeepRemaster_JungleBook_44.mp4? -1? -1? 72.0
+CIC_93.mp4? -1? -1? 46.666666666666664
+FateZero_3_sunflower_vangogh_conat_result.mp4? -1? -1? 56.666666666666664
+Tune-a-video_car-cartoon.mp4? -1? -1? 24.0
+pika-selected_a bear wearing red jersey-1.mp4? -1? -1? 86.66666666666667
+CogVideo_60.mp4? -1? -1? 37.5
+videocrafter-selected_a student showing his classmates his wand-1.mp4? -1? -1? 13.333333333333334
+pika-selected_a seagull walking on shore-1.mp4? -1? -1? 70.0
+Text2Video-zero_Muppet_walking_down_the_street_in_a_red_shirt,_cinematic,_8k.mp4? -1? -1? 20.0
+ColorMNet_nvcc23_input_012_combined.mp4? -1? -1? 93.33333333333333
+CogVideoX-selected_a woman washing strawberries in the kitchen sink-1.mp4? -1? -1? 36.666666666666664
+pika-selected_a church interior-1.mp4? -1? -1? 93.33333333333333
+videocrafter-selected_a great blue heron bird in the lakeside-1.mp4? -1? -1? 23.333333333333332
+CogVideoX-selected_a muslim family sitting and talking in the living room-1.mp4? -1? -1? 36.666666666666664
+DeepAI_3d82e29ec35c7fa2ea1a4ed1bf448dc45ebb99332ce3e912c0.mp4? -1? -1? 30.0
+DeepAI_b4f6c10739d2b0629c31fecc86bb7bf18aaea027ba95285179.mp4? -1? -1? 23.333333333333332
+DeepRemaster_JungleBook_54.mp4? -1? -1? 66.0
+CogVideoX-selected_a beach house built over a seawall protected from the sea waves-1.mp4? -1? -1? 80.0
+CogVideoX-selected_a policeman talking to the car driver-1.mp4? -1? -1? 25.0
+Text2Video-zero_A_group_of_people_ride_bicycles_on_a_large_city_street.mp4? -1? -1? 16.666666666666668
+lavie-selected_a man holding a best actor trophy-1.mp4? -1? -1? 63.333333333333336
+FateZero_19_man_wonder_01_concat_result.mp4? -1? -1? 43.333333333333336
+pika2.0_wide_angle,_two_people_are_driving_in_a_car_seed3761841428.mp4? -1? -1? 75.0
+lavie-selected_a director explaining the movie scene-1.mp4? -1? -1? 36.666666666666664
+CogVideo_86.mp4? -1? -1? 24.0
+DeepAI_57b282be0f62555b6da05b254c83e2a14ac232d4bf52664224.mp4? -1? -1? 25.714285714285715
+CogVideo_32.mp4? -1? -1? 26.666666666666668
+CIC_37.mp4? -1? -1? 60.0
+videocrafter-selected_a man leaning on a tree at the beach-1.mp4? -1? -1? 24.0
+CogVideo_1.mp4? -1? -1? 20.0
+videocrafter-selected_a girl pushing the chair while her sister is on the chair-1.mp4? -1? -1? 23.333333333333332
+CogVideo_34.mp4? -1? -1? 40.0
+pika2.0_A_surreal_scene_of_a_dog_appearing_gigantic,_lying_sprawled_across_an_expansive_cityscape._Tiny_skys_seed1180977916.mp4? -1? -1? 85.0
+pika-selected_a person slicing a vegetable-1.mp4? -1? -1? 66.66666666666667
+CIC_41.mp4? -1? -1? 36.666666666666664
+Text2Video-zero_Burning_chicken_running_around_on_fire.mp4? -1? -1? 10.0
+DeepRemaster_JungleBook_31.mp4? -1? -1? 80.0
+Tune-a-video_van-gogh.mp4? -1? -1? 33.333333333333336
+lavie-selected_a clouded leopard on a tree branch-1.mp4? -1? -1? 63.333333333333336
+lavie-selected_a steaming cup of tea by the window-1.mp4? -1? -1? 86.66666666666667
+pika-selected_a close up video of a dragonfly-1.mp4? -1? -1? 66.66666666666667
+FAVC_film_39.mp4? -1? -1? 73.33333333333333
+ModelScopeT2V_244223223-c5201c8a-2815-4533-9474-1e312c564f4e.mp4? -1? -1? 62.5
+DeepRemaster_JungleBook_148.mp4? -1? -1? 74.0
+DeepAI_74611a7cdf80c4b702e605c28c5fde31229c2fd7739cf06bff.mp4? -1? -1? 60.0
+Rerender-a-video_woman_ink.mp4? -1? -1? 54.285714285714285
+FateZero_5_train_shikai_conat_result.mp4? -1? -1? 70.0
+DeepRemaster_JungleBook_133.mp4? -1? -1? 50.0
+TokenFlow_train_dataset_23.mp4? -1? -1? 20.0
+DeepAI_1f245dc228c239f3cdb60a5e7a9cc8b66e79cc406d0321dbc9.mp4? -1? -1? 50.0
+ColorMNet_Videvo_input_YogaHut2_combined_4.mp4? -1? -1? 73.33333333333333
+videocrafter-selected_a parked motorcycle on a foggy roadside-1.mp4? -1? -1? 47.142857142857146
+CIC_25.mp4? -1? -1? 50.0
+videocrafter-selected_a woman in protective suit disinfecting the kitchen-1.mp4? -1? -1? 22.0
+lavie-selected_a bedroom with a brick wall-1.mp4? -1? -1? 63.333333333333336
+CogVideoX-selected_a man holding leaves looking at the camera-1.mp4? -1? -1? 82.5
+lavie-selected_aerial view of a train passing by a bridge-1.mp4? -1? -1? 64.0
+CIC_95.mp4? -1? -1? 53.333333333333336
+CIC_27.mp4? -1? -1? 52.5
+pika-selected_a footage of an actor on a movie scene-1.mp4? -1? -1? 46.0
+TokenFlow_train_dataset_21.mp4? -1? -1? 36.666666666666664
+videocrafter-selected_a bonfire near river-1.mp4? -1? -1? 43.333333333333336
+lavie-selected_a group of martial artist warming up-1.mp4? -1? -1? 30.0
+CogVideoX-selected_a truck travelling in the road-1.mp4? -1? -1? 86.66666666666667
+videocrafter-selected_a footage of an actor on a movie scene-1.mp4? -1? -1? 16.666666666666668
+DeepRemaster_a-bomb_3.mp4? -1? -1? 76.66666666666667
+videocrafter-selected_a sound engineer listening to music-1.mp4? -1? -1? 23.333333333333332
+Text2Video-zero_Hulk_wearing_virtual_reality_goggles,_4k,_high_resolution..mp4? -1? -1? 30.0
+FateZero_19_man_wonder_02_concat_result.mp4? -1? -1? 56.0
+Text2Video-zero_Traveler_walking_alone_in_the_misty_forest_at_sunset..mp4? -1? -1? 36.666666666666664
+TokenFlow_test_dataset_8.mp4? -1? -1? 66.0
+Text2Video-zero_A_panda_taking_a_selfie..mp4? -1? -1? 31.666666666666668
+DeepRemaster_JungleBook_7.mp4? -1? -1? 87.5
+videocrafter-selected_a hyena in a zoo-1.mp4? -1? -1? 26.666666666666668
+DeepAI_d5ddd167a0c9854a4e002cf52fc843378185a6be79c0a127e2.mp4? -1? -1? 53.333333333333336
+CogVideo_0.mp4? -1? -1? 20.0
+Text2Video-zero_t2v_tiger_walking.mp4? -1? -1? 36.666666666666664
+CogVideoX-selected_aerial view of a luxurious house with pool-1.mp4? -1? -1? 86.66666666666667
+pika-selected_aerial shot of a village-1.mp4? -1? -1? 86.66666666666667
+TokenFlow_test_dataset_6_org.mp4? -1? -1? 66.66666666666667
+ModelScopeT2V_02.mp4? -1? -1? 76.66666666666667
+TokenFlow_train_dataset_33.mp4? -1? -1? 40.0
+ControlVideo_A_majestic_camel_gracefully_strides_across_the_scorching_desert_sands..mp4? -1? -1? 36.666666666666664
+videocrafter-selected_a medium close up of women wearing kimonos-1.mp4? -1? -1? 13.333333333333334
+DeepRemaster_JungleBook_152.mp4? -1? -1? 93.33333333333333
+MagicVideo_11101140.mp4? -1? -1? 50.0
+DeepRemaster_a-bomb_10.mp4? -1? -1? 36.666666666666664
+videocrafter-selected_a woman eating a bar of chocolate-1.mp4? -1? -1? 30.0
+Rerender-a-video_A_ink.mp4? -1? -1? 68.33333333333333
+CogVideoX-selected_a road in the woods under fog-1.mp4? -1? -1? 82.5
+lavie-selected_a chef slicing a cucumber-1.mp4? -1? -1? 43.333333333333336
+pika-selected_aerial footage of a building and its surrounding landscape in winter-1.mp4? -1? -1? 90.0
+TokenFlow_train_dataset_12.mp4? -1? -1? 40.0
+MagicVideo_11101125.mp4? -1? -1? 58.333333333333336
+pika-selected_a truck travelling in the road-1.mp4? -1? -1? 90.0
+CogVideoX-selected_a raccoon climbing a tree-1.mp4? -1? -1? 56.0
+ImagenVideo_36.mp4? -1? -1? 72.5
+DeepAI_f980586f8f3eddba8882120046072df69e0e7592db0b79e850.mp4? -1? -1? 25.0
+videocrafter-selected_a man eating a taco by the bar-1.mp4? -1? -1? 16.666666666666668
+videocrafter-selected_a river waterfall cascading down the plunge basin-1.mp4? -1? -1? 40.0
+TokenFlow_test_dataset_4.mp4? -1? -1? 46.666666666666664
+Text2Video-zero_vip2p_frame2_bot_mid.mp4? -1? -1? 52.5
+FAVC_FAVC.mp4? -1? -1? 84.0
+CogVideoX-selected_a bedroom with a brick wall-1.mp4? -1? -1? 92.0
+CogVideo_57.mp4? -1? -1? 30.0
+CIC_86.mp4? -1? -1? 60.0
+DeepAI_6f82e4c749873cf49bc9bdcbfcaa49de5e070f5955a9bc9e61.mp4? -1? -1? 50.0
+CIC_56.mp4? -1? -1? 52.5
+DeepAI_d02068299ec091ee702d5ddf4d52aedef18857ce7849422ab4.mp4? -1? -1? 50.0
+pika-selected_aerial shot of interior of the warehouse-1.mp4? -1? -1? 96.66666666666667
+pika-selected_a girl pushing the chair while her sister is on the chair-1.mp4? -1? -1? 50.0
+CogVideo_35.mp4? -1? -1? 23.333333333333332
+videocrafter-selected_a concrete structure near the green trees-1.mp4? -1? -1? 25.0
+pix2video_kitesurf_edit2.mp4? -1? -1? 40.0
+videocrafter-selected_a child playing with water-1.mp4? -1? -1? 16.666666666666668
+CogVideoX-selected_aerial footage of a city at night-1.mp4? -1? -1? 80.0
+lavie-selected_a woman exercising at home over a yoga mat-1.mp4? -1? -1? 28.333333333333332
+pika-selected_a red leaf plant-1.mp4? -1? -1? 90.0
+DeepAI_c7df483397bb4885464d872486e1d342c93215a666eed1f6a8.mp4? -1? -1? 40.0
+CogVideoX-selected_a man eating a donut-1.mp4? -1? -1? 43.333333333333336
+ImagenVideo_8.mp4? -1? -1? 63.333333333333336
+ModelScopeT2V_01.mp4? -1? -1? 54.285714285714285
+lavie-selected_a criminal inside a dark room handcuffed in a table-1.mp4? -1? -1? 86.66666666666667
+DeepAI_5403b6b170a3eeb35d0043d4fd4c9f31e659d7d68d8533df4f.mp4? -1? -1? 35.0
+videocrafter-selected_a room of a manufacturing facility-1.mp4? -1? -1? 25.0
+ImagenVideo_52.mp4? -1? -1? 78.0
+CogVideoX-selected_a person slicing a vegetable-1.mp4? -1? -1? 53.333333333333336
+CogVideoX-selected_a girl pushing the chair while her sister is on the chair-1.mp4? -1? -1? 70.0
+CogVideoX-selected_aerial view of brown dry landscape-1.mp4? -1? -1? 83.33333333333333
+CogVideo_45.mp4? -1? -1? 26.666666666666668
+pika-selected_a group of photographers taking pictures at the north western gardens in llandudno north wales-1.mp4? -1? -1? 55.0
+CogVideoX-selected_a full grown plant on a pot-1.mp4? -1? -1? 93.33333333333333
+ImagenVideo_34.mp4? -1? -1? 42.5
+pika-selected_aerial video of stuttgart tv tower in germany-1.mp4? -1? -1? 83.33333333333333
+FAVC_film_22.mp4? -1? -1? 82.0
+pika-selected_a farm worker harvesting onions-1.mp4? -1? -1? 43.333333333333336
+pix2video_blackswan_edit2.mp4? -1? -1? 40.0
+TokenFlow_train_dataset_9_org.mp4? -1? -1? 76.66666666666667
+Text2Video-zero_Flag_of_the_US_on_top_of_a_tall_white_mountain.mp4? -1? -1? 53.333333333333336
+CogVideoX-selected_a bear wearing red jersey-1.mp4? -1? -1? 73.33333333333333
+lavie-selected_a frog eating an ant-1.mp4? -1? -1? 83.33333333333333
+DeepRemaster_JungleBook_37.mp4? -1? -1? 84.0
+lavie-selected_abandoned building in the woods-1.mp4? -1? -1? 36.666666666666664
+TokenFlow_train_dataset_10.mp4? -1? -1? 40.0
+lavie-selected_a woman opening a book with a flower inside-1.mp4? -1? -1? 50.0
+pika-selected_aerial footage of a city at night-1.mp4? -1? -1? 53.333333333333336
+pika-selected_a pancake tower with chocolate syrup and strawberries on top-1.mp4? -1? -1? 93.33333333333333
+CogVideoX-selected_a footage of a broken bicycle-1.mp4? -1? -1? 82.5
+CogVideoX-selected_a room of a manufacturing facility-1.mp4? -1? -1? 53.333333333333336
+Rerender-a-video_C_pixelart.mp4? -1? -1? 57.5
+videocrafter-selected_a view of a unique building from a moving vehicle-1.mp4? -1? -1? 25.0
+BiSTNet_fanghua301_0.mp4? -1? -1? 92.5
+ControlVideo_A_dusty_old_jeep_was_making_its_way_down_the_winding_forest_road,_creaking_and_groaning_with_each_bump_and_turn..mp4? -1? -1? 50.0
+DeepRemaster_JungleBook_149.mp4? -1? -1? 63.333333333333336
+Text2Video-zero_A_little_boy_is_riding_a_bike_on_a_park_path,_the_wheels_crunching_on_the_gravel.mp4? -1? -1? 16.0
+ControlVideo_controlvideo_The_astronaut_dances_in_futuristic_city,_cyberpunk_style..mp4? -1? -1? 36.666666666666664
+videocrafter-selected_a mother preparing food with her kids-1.mp4? -1? -1? 26.666666666666668
+CIC_94.mp4? -1? -1? 60.0
+videocrafter-selected_a road in the woods under fog-1.mp4? -1? -1? 40.0
+DeepRemaster_JungleBook_89.mp4? -1? -1? 83.33333333333333
+videocrafter-selected_a student eating her sandwich-1.mp4? -1? -1? 13.333333333333334
+lavie-selected_a footage of an actor on a movie scene-1.mp4? -1? -1? 40.0
+lavie-selected_a close up video of a dragonfly-1.mp4? -1? -1? 70.0
+CogVideoX-selected_a seagull walking on shore-1.mp4? -1? -1? 70.0
+CogVideo_78.mp4? -1? -1? 36.666666666666664
+DeepAI_8e90a04fa3d204130bf7b48cee065dac2b7da24b20f869d644.mp4? -1? -1? 36.666666666666664
+Text2Video-zero_A_fox_dressed_in_suit_dancing_in_park.mp4? -1? -1? 40.0
+TokenFlow_test_dataset_5_org.mp4? -1? -1? 85.0
+pika2.0_Documentary_footage._The_pet_is_an_astronaut_in_the_cockpit_of_a_spacecraft,_pressing_buttons_and_ga_seed1333939102.mp4? -1? -1? 80.0
+lavie-selected_a girl coloring the cardboard-1.mp4? -1? -1? 50.0
+CogVideoX-selected_a girl putting ketchup on food at the kitchen-1.mp4? -1? -1? 46.666666666666664
+ControlVideo_controlvideo_A_shiny_silver_vehicle_gracefully_maneuvers_towards_a_modern_glass_building..mp4? -1? -1? 50.0
+CogVideoX-selected_a graveyard by a church in a mountain landscape-1.mp4? -1? -1? 73.33333333333333
+videocrafter-selected_a seagull walking on shore-1.mp4? -1? -1? 10.0
+ControlVideo_out.mp4? -1? -1? 20.0
+CIC_18.mp4? -1? -1? 50.0
+CogVideoX-selected_a pod of dolphins swirling in the sea catching forage fish-1.mp4? -1? -1? 46.666666666666664
+ControlVideo_titanic.mp4? -1? -1? 52.0
+ImagenVideo_43.mp4? -1? -1? 57.5
+MagicVideo_1008458743.mp4? -1? -1? 56.666666666666664
+pika-selected_a tree house in the woods-1.mp4? -1? -1? 93.33333333333333
+MagicVideo-v2_A panda standing on a surfboard, in the ocean in sunset,  4k, high resolution (1).mp4? -1? -1? 86.66666666666667
+CogVideoX-selected_a girl finding her brother reading a book in the bedroom-1.mp4? -1? -1? 33.333333333333336
+pika-selected_a man with a muertos face painting-1.mp4? -1? -1? 80.0
+videocrafter-selected_a young singer performing on stage-1.mp4? -1? -1? 10.0
+pika-selected_a group of students laughing and talking-1.mp4? -1? -1? 62.5
+videocrafter-selected_a man holding leaves looking at the camera-1.mp4? -1? -1? 23.333333333333332
+CogVideo_67.mp4? -1? -1? 47.5
+pika-selected_aerial view of town and park-1.mp4? -1? -1? 80.0
+ImagenVideo_7.mp4? -1? -1? 46.666666666666664
+CogVideoX-selected_a woman fighter in her cosplay costume-1.mp4? -1? -1? 90.0
+lavie-selected_a tractor harvesting lavender flower-1.mp4? -1? -1? 36.0
+CogVideoX-selected_a scenic view of the golden hour at norway-1.mp4? -1? -1? 80.0
+pika-selected_a woman climbing a tree house-1.mp4? -1? -1? 86.66666666666667
+videocrafter-selected_aerial view of a palace-1.mp4? -1? -1? 26.666666666666668
+CogVideoX-selected_aerial shot of interior of the warehouse-1.mp4? -1? -1? 85.0
+CogVideoX-selected_a young singer performing on stage-1.mp4? -1? -1? 41.666666666666664
+lavie-selected_a woman lying in the operating room-1.mp4? -1? -1? 73.33333333333333
+videocrafter-selected_a woman sitting by the indoor fire pit-1.mp4? -1? -1? 26.666666666666668
+videocrafter-selected_a leaf on a glass-1.mp4? -1? -1? 36.0
+CogVideo_19.mp4? -1? -1? 23.333333333333332
+Follow-Your-Pose_cwIron_man_on_the_beach..mp4? -1? -1? 23.333333333333332
+CogVideo_61.mp4? -1? -1? 20.0
+Text2Video-zero_An_elephant_wearing_a_birthday_hat_walking_on_the_beach..mp4? -1? -1? 46.666666666666664
+pika-selected_a hyena in a zoo-1.mp4? -1? -1? 76.0
+FAVC_film_36.mp4? -1? -1? 70.0
+ImagenVideo_24.mp4? -1? -1? 10.0
+lavie-selected_a bearded man putting a vinyl record on a vinyl player-1.mp4? -1? -1? 56.666666666666664
+DeepRemaster_JungleBook_17.mp4? -1? -1? 80.0
+Text2Video-zero_Old_man_wearing_a_hat_and_coat_sleeping_sitting_up_on_a_sofa.mp4? -1? -1? 20.0
+Text2Video-zero_pose2v_img_bot_right.mp4? -1? -1? 64.0
+CogVideoX-selected_a group of friend place doing hand gestures of agreement-1.mp4? -1? -1? 27.5
+DeepAI_78465fd7a5ef5bd2ccd32d95b22f630ae8b21c95cbc6de4323.mp4? -1? -1? 26.666666666666668
+lavie-selected_a dragonfly perched on a leaf-1.mp4? -1? -1? 70.0
+CogVideoX-selected_a tractor harvesting lavender flower-1.mp4? -1? -1? 83.33333333333333
+lavie-selected_a red panda eating leaves-1.mp4? -1? -1? 77.5
+videocrafter-selected_a group of students laughing and talking-1.mp4? -1? -1? 16.666666666666668
+lavie-selected_a footage of a wooden house on a wheat field-1.mp4? -1? -1? 80.0
+CogVideoX-selected_a cracker sandwich with cheese filling for snack-1.mp4? -1? -1? 80.0
+ImagenVideo_41.mp4? -1? -1? 60.0
+CIC_15.mp4? -1? -1? 46.0
+MagicVideo_11101138.mp4? -1? -1? 50.0
+pika-selected_a bird house hanging on a tree branch-1.mp4? -1? -1? 90.0
+lavie-selected_a church interior-1.mp4? -1? -1? 66.66666666666667
+lavie-selected_a plant surrounded by fallen leaves-1.mp4? -1? -1? 66.66666666666667
+MagicVideo-v2_A beautiful woman, with a pink and platinum-colored ombre mohawk, facing the camera, wearing a composition of bubble wrap, cyberpunk jacket.mp4? -1? -1? 53.333333333333336
+pika-selected_a full grown plant on a pot-1.mp4? -1? -1? 91.25
+videocrafter-selected_a colorful butterfly perching on a bud-1.mp4? -1? -1? 50.0
+FAVC_film_26.mp4? -1? -1? 80.0
+CogVideoX-selected_a family posing for the camera-1.mp4? -1? -1? 26.666666666666668
+Text2Video-zero_t2v_horse_galloping_3.mp4? -1? -1? 40.0
+pika-selected_a crowd of people in a plaza in front of a government building-1.mp4? -1? -1? 82.5
+pika-selected_a woman sitting on a bicycle while using a mobile phone-1.mp4? -1? -1? 80.0
+ImagenVideo_35.mp4? -1? -1? 60.0
+Text2Video-zero_In_the_swamp,_a_crocodile_stealthily_surfaces,_revealing_only_its_eyes_and_the_tip_of_its_nose_as_it_moves_forward..mp4? -1? -1? 23.333333333333332
+DeepRemaster_JungleBook_49.mp4? -1? -1? 64.0
+TokenFlow_train_dataset_26.mp4? -1? -1? 50.0
+ImagenVideo_12.mp4? -1? -1? 34.0
+lavie-selected_a woman sitting by the indoor fire pit-1.mp4? -1? -1? 54.285714285714285
+pix2video_goldfish_edit1.mp4? -1? -1? 26.666666666666668
+videocrafter-selected_a building built with lots of stairways-1.mp4? -1? -1? 52.5
+CogVideoX-selected_a man putting a flower in a box-1.mp4? -1? -1? 30.0
+DeepRemaster_JungleBook_61.mp4? -1? -1? 83.33333333333333
+videocrafter-selected_a strawberry fruit mixed in an alcoholic drink-1.mp4? -1? -1? 16.666666666666668
+CogVideoX-selected_a dilapidated building made of bricks-1.mp4? -1? -1? 90.0
+videocrafter-selected_a footage of the tree leaves-1.mp4? -1? -1? 36.666666666666664
+TokenFlow_train_dataset_8.mp4? -1? -1? 48.0
+pika-selected_a man putting a flower in a box-1.mp4? -1? -1? 46.666666666666664
+lavie-selected_aerial view of brown dry landscape-1.mp4? -1? -1? 53.333333333333336
+DeepAI_0d0f8ee1800cdc4661931f537d780a8d930936e37c4ef6c047.mp4? -1? -1? 46.666666666666664
+DeepAI_f578eaf005dd36a06045461ac9240ed1414c11dc03c6b982e0.mp4? -1? -1? 42.0
+DeepRemaster_JungleBook_80.mp4? -1? -1? 77.5
+lavie-selected_a great blue heron bird in the lakeside-1.mp4? -1? -1? 55.0
+videocrafter-selected_aerial view of zaporizhia in ukraine-1.mp4? -1? -1? 27.5
+CIC_91.mp4? -1? -1? 71.66666666666667
+DeepAI_010d51b6e75e1fc6fcd1435188f2b443965e7688c7a7303935.mp4? -1? -1? 33.333333333333336
+CogVideoX-selected_a squirrel eating nuts-1.mp4? -1? -1? 70.0
+ImagenVideo_3.mp4? -1? -1? 40.0
+Rerender-a-video_man_BlackPanther.mp4? -1? -1? 77.5
+DeepAI_bf005f21b09e4d920bedce9e311cde90bc470336ef2532783d.mp4? -1? -1? 40.0
+CogVideoX-selected_a broccoli soup on wooden table-1.mp4? -1? -1? 70.0
+lavie-selected_a man cutting a tree bark-1.mp4? -1? -1? 33.333333333333336
+pika-selected_a ballerina practicing in the dance studio-1.mp4? -1? -1? 23.333333333333332
+TokenFlow_train_dataset_48.mp4? -1? -1? 48.333333333333336
+Text2Video-zero_An_Asian_family_travels_in_a_motorized_car_on_a_busy_street_in_a_city.mp4? -1? -1? 56.666666666666664
+lavie-selected_a young student attending her online classes-1.mp4? -1? -1? 50.0
+videocrafter-selected_a highway built across an agricultural area in the countryside-1.mp4? -1? -1? 26.666666666666668
+lavie-selected_a modern railway station in malaysia use for public transportation-1.mp4? -1? -1? 56.666666666666664
+FateZero_1_surf_ukiyo_conat_result.mp4? -1? -1? 56.666666666666664
+Text2Video-zero_A_medieval_witch_making_a_poison..mp4? -1? -1? 33.333333333333336
+DeepAI_658fa33e62f692a69c0e65263bd40ff8c786facb70b7ef9e54.mp4? -1? -1? 38.0
+BiSTNet_bend_or_1.mp4? -1? -1? 60.0
+FateZero_4_rabit_pokemon_conat_result.mp4? -1? -1? 52.5
+videocrafter-selected_a nine banded armadillo searching for food-1.mp4? -1? -1? 26.666666666666668
+TokenFlow_train_dataset_38.mp4? -1? -1? 43.333333333333336
+FAVC_film_19.mp4? -1? -1? 77.5
+CogVideoX-selected_a monument under the blue sky-1.mp4? -1? -1? 65.0
+Text2Video-zero_A_young,_beautiful_girl_in_a_pink_dress_is_playing_piano_gracefully.mp4? -1? -1? 26.666666666666668
+pika-selected_a footage of a broken bicycle-1.mp4? -1? -1? 92.0
+lavie-selected_a girl finding her brother reading a book in the bedroom-1.mp4? -1? -1? 50.0
+pika2.0_A_PET,_dressed_in_a_sharp_gray_suit_with_a_tie,_is_seated_comfortably_in_a_plush_business_class_airp_seed2977865979.mp4? -1? -1? 90.0
+pika2.0_The_camera_is_focused_on_an_individual_wearing_an_outfit_at_a_red_carpet_event._They_inspect_their_o_seed3617530165.mp4? -1? -1? 60.0
+ImagenVideo_16.mp4? -1? -1? 35.0
+CIC_23.mp4? -1? -1? 56.666666666666664
+CogVideo_84.mp4? -1? -1? 23.333333333333332
+lavie-selected_a snake crawling on a wooden flooring-1.mp4? -1? -1? 63.333333333333336
+DeepAI_86cc3013661c0a76169b3b8bfe2add494790bfac5b58ee314e.mp4? -1? -1? 30.0
+DeepRemaster_JungleBook_124.mp4? -1? -1? 80.0
+CIC_11.mp4? -1? -1? 60.0
+ControlVideo_Wonder_Woman_in_a_desert,_Pop_Art_style..mp4? -1? -1? 36.666666666666664
+DeepRemaster_JungleBook_96.mp4? -1? -1? 71.42857142857143
+DeepRemaster_three_0.mp4? -1? -1? 68.0
+pika2.0_video.mp4? -1? -1? 77.5
+MagicVideo_11101130.mp4? -1? -1? 62.0
+DeepRemaster_JungleBook_33.mp4? -1? -1? 82.0
+CogVideo_29.mp4? -1? -1? 16.666666666666668
+CogVideo_75.mp4? -1? -1? 40.0
+videocrafter-selected_a troop of monkey on top of a mountain-1.mp4? -1? -1? 23.333333333333332
+pika-selected_aerial footage of a herd-1.mp4? -1? -1? 62.5
+ImagenVideo_2.mp4? -1? -1? 43.333333333333336
+videocrafter-selected_a modern railway station in malaysia use for public transportation-1.mp4? -1? -1? 23.333333333333332
+CIC_32.mp4? -1? -1? 43.333333333333336
+videocrafter-selected_a woman sitting on a bicycle while using a mobile phone-1.mp4? -1? -1? 23.333333333333332
+CogVideo_63.mp4? -1? -1? 23.333333333333332
+pika-selected_a raccoon climbing a tree-1.mp4? -1? -1? 76.66666666666667
+CogVideo_50.mp4? -1? -1? 28.0
+lavie-selected_a happy kid playing the ukulele-1.mp4? -1? -1? 50.0
+DeepRemaster_JungleBook_166.mp4? -1? -1? 86.66666666666667
+CogVideoX-selected_aerial view of a train passing by a bridge-1.mp4? -1? -1? 45.0
+videocrafter-selected_aerial footage of a building and its surrounding landscape in winter-1.mp4? -1? -1? 33.333333333333336
+pika-selected_a bee feeding on nectars-1.mp4? -1? -1? 55.0
+ImagenVideo_28.mp4? -1? -1? 47.5
+DeepAI_831e89e7e71c45f54587033a064ec0f1bf93f5b065ec7ba6fb.mp4? -1? -1? 56.666666666666664
+Text2Video-zero_pose2v_img_top_right.mp4? -1? -1? 50.0
+CogVideo_31.mp4? -1? -1? 40.0
+ImagenVideo_27.mp4? -1? -1? 73.33333333333333
+videocrafter-selected_a fallen tree trunk-1.mp4? -1? -1? 26.666666666666668
+lavie-selected_a couple having breakfast in a restaurant-1.mp4? -1? -1? 23.333333333333332
+lavie-selected_aerial view of a palace-1.mp4? -1? -1? 36.666666666666664
+videocrafter-selected_a man video recording the movie in theater-1.mp4? -1? -1? 23.333333333333332
+MagicVideo-v2_An old-fashioned windmill surrounded by flowers, 3D design.mp4? -1? -1? 64.0
+CogVideoX-selected_a wolf in its natural habitat-1.mp4? -1? -1? 74.0
+CogVideoX-selected_a nine banded armadillo searching for food-1.mp4? -1? -1? 60.0
+CIC_20.mp4? -1? -1? 63.333333333333336
+BiSTNet_Summertime_1955_1_0.mp4? -1? -1? 80.0
+Rerender-a-video_teacher_vangogh.mp4? -1? -1? 73.33333333333333
+CogVideo_62.mp4? -1? -1? 24.0
+CogVideoX-selected_a plant on gold pot with glass lid-1.mp4? -1? -1? 86.66666666666667
+pika-selected_a pilot getting out of a helicopter-1.mp4? -1? -1? 82.0
+Follow-Your-Pose_sdsdA_Iron_man_on_the_beach.mp4? -1? -1? 43.333333333333336
+ControlVideo_An_airplane_flying_on_the_grasslands..mp4? -1? -1? 60.0
+DeepRemaster_JungleBook_90.mp4? -1? -1? 83.33333333333333
+CogVideo_92.mp4? -1? -1? 52.5
+BiSTNet_bend_or_0.mp4? -1? -1? 72.5
+CogVideoX-selected_aerial view of the highway and building in a city-1.mp4? -1? -1? 80.0
+pika2.0_The_Jesus_is_reading_bible_with_the_person_seed4273855998.mp4? -1? -1? 67.5
+FAVC_film_44.mp4? -1? -1? 63.333333333333336
+pika-selected_a sheep eating yellow flowers from behind a wire fence-1.mp4? -1? -1? 73.33333333333333
+DeepRemaster_JungleBook_53.mp4? -1? -1? 68.0
+CogVideoX-selected_a group of people watching a concert in a room-1.mp4? -1? -1? 63.333333333333336
+videocrafter-selected_a male police officer talking on the radio-1.mp4? -1? -1? 20.0
+MagicVideo-v2_A panda standing on a surfboard, in the ocean in sunset,  4k, high resolution.mp4? -1? -1? 93.33333333333333
+DeepRemaster_JungleBook_153.mp4? -1? -1? 78.0
+CogVideoX-selected_a person paddling a wooden boat in a lake-1.mp4? -1? -1? 50.0
+MagicVideo_16023142.mp4? -1? -1? 47.5
+Text2Video-zero_Robot_emerging_from_a_large_column_of_billowing_black_smoke,_high_quality.mp4? -1? -1? 40.0
+Tune-a-video_bear.mp4? -1? -1? 20.0
+Text2Video-zero_1910s_sitcom_of_everyday_life_and_routines_in_society.mp4? -1? -1? 13.333333333333334
+lavie-selected_a video of a person tying a plant on a string-1.mp4? -1? -1? 33.333333333333336
+ColorMNet_Videvo_input_FatherAndChild2_combined_0.mp4? -1? -1? 76.66666666666667
+pika-selected_a building built with lots of stairways-1.mp4? -1? -1? 87.5
+CogVideoX-selected_a crowd of people in a plaza in front of a government building-1.mp4? -1? -1? 61.666666666666664
+Follow-Your-Pose_cswSuperman_on_the_forest.mp4? -1? -1? 26.666666666666668
+lavie-selected_a helicopter flying under blue sky-1.mp4? -1? -1? 70.0
+Tune-a-video_desert.mp4? -1? -1? 60.0
+CogVideoX-selected_a cute pomeranian dog playing with a soccer ball-1.mp4? -1? -1? 32.0
+Follow-Your-Pose_vsdBatman_on_the_sea.mp4? -1? -1? 26.666666666666668
+DeepRemaster_JungleBook_32.mp4? -1? -1? 63.333333333333336
+pix2video_giraffe_edit1.mp4? -1? -1? 51.666666666666664
+lavie-selected_a gorilla eating a carrot-1.mp4? -1? -1? 63.333333333333336
+lavie-selected_a student showing his classmates his wand-1.mp4? -1? -1? 35.0
+lavie-selected_a highway built across an agricultural area in the countryside-1.mp4? -1? -1? 63.333333333333336
+DeepRemaster_JungleBook_121.mp4? -1? -1? 73.33333333333333
+Tune-a-video_cartoon1.mp4? -1? -1? 43.333333333333336
+ControlVideo_A_contented_cow_ambles_across_the_dewy,_verdant_pasture..mp4? -1? -1? 45.0
+DeepAI_c7a397c2c010b4548d38cdee34b9f22892e1304134ff68beac.mp4? -1? -1? 30.0
+DeepRemaster_JungleBook_142.mp4? -1? -1? 70.0
+CogVideo_95.mp4? -1? -1? 56.666666666666664
+DeepRemaster_JungleBook_5.mp4? -1? -1? 80.0
+DeepRemaster_JungleBook_20.mp4? -1? -1? 86.66666666666667
+videocrafter-selected_a wolf in its natural habitat-1.mp4? -1? -1? 25.0
+pika-selected_a sound engineer listening to music-1.mp4? -1? -1? 78.0
