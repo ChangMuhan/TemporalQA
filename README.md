@@ -26,7 +26,13 @@ The train/val/test splits are provided in `./labels`. There are three different 
 
 ## Environment
 
-Run `conda env create -f environment.yml` to create a new conda environment called `video_eval`.
+Run 
+
+```text
+conda env create -f environment.yml
+```
+
+to create a new conda environment called `video_eval`.
 
 ## Pre-trained Weights
 
@@ -55,6 +61,22 @@ TemporalQA/
 
 ## Training
 
-Run `python new_train.py -o YOUR_PATH_TO_CONFIG`
+The default config is `options/config.yml`.
+
+To train the model from scratch, run 
+
+```text
+python new_train.py -o YOUR_PATH_TO_CONFIG
+```
 
 ## Testing
+
+To test the model, run
+
+```text
+python new_test.py -o YOUR_PATH_TO_CONFIG
+```
+
+Make sure the pretrained weights file `TemporalQA-final_val-livevqc_s_dev_v0.0.pth` is placed in `pretrained_weights/`.
+
+After running the evaluation, you will see a new `.txt` file under `results`, which records the predicted and ground truth temporal consistency scores for each video. There is another directory, `tmp`, which stores the temporal consistency score map of each video in `.npy` format. 
